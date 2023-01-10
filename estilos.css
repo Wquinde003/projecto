@@ -1,0 +1,17 @@
+.navbar{
+    display: block;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
+
+.mainn{
+    display: block;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
+
+.footer{
+    display: block;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
